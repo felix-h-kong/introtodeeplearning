@@ -136,3 +136,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# lab 1 output .wav files
+*.wav
+**/training_checkpoints/
