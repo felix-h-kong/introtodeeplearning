@@ -141,3 +141,6 @@ dmypy.json
 # lab 1 output .wav files
 *.wav
 **/training_checkpoints/
+
+# lab 2 MNIST datasets
+lab2/data/
